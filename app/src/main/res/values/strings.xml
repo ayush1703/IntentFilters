@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IntentFilters</string>
+
+    <string name="main_activity_button">Go to Digital Clock</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_alternate">AlternateActivity</string>
+    <string name="main_activity_text">You are in Main Activity</string>
+    <string name="alternate_activity_text">You are in Alternate Activity</string>
+    <string name="alternate_activity_button">Go to Analog Clock</string>
+<string name="start_media_button">Start Music</string>
+    <string name="stop_media_button">Stop</string>
+    <string name="edit_text_hint">Enter number of seconds</string>
+    <string name="timer_button_label">Start Timer</string>
+</resources>
